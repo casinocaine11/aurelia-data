@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-25T20:53:41.537785",
-  "date": "2026-03-25",
+  "generated": "2026-03-26T06:40:32.919525",
+  "date": "2026-03-26",
   "account": {
     "net_liq": 7285,
     "cash_available": 800,
@@ -37,45 +37,18 @@
     ],
     "inflows_ytd": 7150
   },
-  "signals": [
-    {
-      "ticker": "XLF",
-      "strategy": "PUT CREDIT SPREAD",
-      "status": "FIRING",
-      "score": 43,
-      "ivr": 43.8,
-      "vrp": 1.09,
-      "b3": -1,
-      "b3_label": "LEAN BEAR",
-      "squeeze_on": "False",
-      "price": 49.34,
-      "iv": 26.0,
-      "hv20": 24.0,
-      "exp": "2026-05-15",
-      "dte": 51,
-      "term_struct": "FLAT",
-      "reason": "PUTS overpriced (skew 1.9x) + IVR 44",
-      "live": true,
-      "credit": 0.16,
-      "credit_dollars": 16,
-      "max_risk": 184,
-      "target_50": 8,
-      "otm_pct": 6.8,
-      "short": 46.0,
-      "long": 44.0
-    }
-  ],
+  "signals": [],
   "scan_meta": {
-    "vix": 25.3,
-    "spy": 656.82,
-    "qqq": 587.82,
-    "iwm": 251.82,
-    "gld": 416.29,
+    "vix": 27.0,
+    "spy": 651.67,
+    "qqq": 581.83,
+    "iwm": 249.3,
+    "gld": 408.14,
     "smh": 0.0,
     "xlf": 0.0,
-    "tnx": 4.33,
+    "tnx": 4.37,
     "regime": "ELEVATED",
-    "signals_firing": 1
+    "signals_firing": 0
   },
   "trade_log": [
     {
